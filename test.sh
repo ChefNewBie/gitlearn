@@ -5,3 +5,4 @@ y=5
 sum=$(($x+$y))
 sum=$(($sum+$x))
 echo $sum
+echo "ok"
