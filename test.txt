@@ -1,4 +1,2 @@
-This is a test
-new
-jkjkkjkj
-Please dont screw this up
+This is a test, add two numbers in the bash script
+
