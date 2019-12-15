@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Testing integration
 
 
 def add(num1, num2):
@@ -11,8 +10,8 @@ def sub(num1, num2):
 
 
 def main():
-    print ("Hello World!")
-    print ("Calling Addittion")
+    print("Hello World!")
+    print("Calling Addittion")
     a = add(2, 5)
     b = sub(19, 10)
     print("Addittion=%d" % a)
@@ -21,4 +20,3 @@ def main():
 
 main()
 # if __name__ == "__main__":
-
